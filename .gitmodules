@@ -1,0 +1,3 @@
+[submodule "foundry-app"]
+	path = foundry-app
+	url = ./foundry-app
